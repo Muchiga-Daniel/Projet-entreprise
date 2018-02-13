@@ -1,0 +1,32 @@
+RGPD
+
+- url preprod : https://preprod.rgpd.wellpack.fr
+
+- Accès Admin : https://preprod.rgpd.wellpack.fr/admin
+
+
+- Fonction disponible :
+
+	- Front
+		- Accueil
+		- Contact
+
+	- Admin
+		- Demande
+		- Commentaire
+		- Lien
+		- Client/Recherche
+
+- Fonction en Dev :
+	- charte graphique
+
+	- Front
+		- Accueil
+		- Contact
+		- Client
+
+	- Admin
+		- Demande
+		- Commentaire
+		- Lien
+		- Client/Recherche
